@@ -1,4 +1,4 @@
-# tenant-management
+# tenant-management-system
 ## About Project
 Tenant management system manages the information of tenants like their firstname, lastname, email, phone number, Date of birth, Gender, number of households, and Apartment Number.Regarding to the features included :
 
