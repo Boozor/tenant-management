@@ -1,15 +1,15 @@
 # tenant-management
-##About Project
+## About Project
 Tenant management system manages the information of tenants like their firstname, lastname, email, phone number, Date of birth, Gender, number of households, and Apartment Number.Regarding to the features included :
 
-##Taking personal information
+## Taking personal information
 Showing the information as a record
 deleting the record
 resting fields
 deleting database
 Project Prerequisites:
 
-##Tools usesd for the projects are:
+## Tools usesd for the projects are:
 1. Tkinter – To create the GUI.
 2. SQLite3 – To connect the program to the database and store information in it.
 3. TkCalender – To get the user to enter a date.
